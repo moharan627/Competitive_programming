@@ -35,4 +35,6 @@ else:
         
     else:#Kが胴体一周より多い場合
         K %= len(body)
+#AC例:https://atcoder.jp/contests/abc241/submissions/30562966
+#https://atcoder.jp/contests/abc167/submissions/30562713
 """
